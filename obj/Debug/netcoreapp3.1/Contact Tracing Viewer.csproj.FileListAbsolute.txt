@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Contact Tracing Viewer\Contact Tracing Viewer\bin\Debug\netcoreapp3.1\Contact Tracing Viewer.exe
+C:\Users\user\source\repos\Contact Tracing Viewer\Contact Tracing Viewer\bin\Debug\netcoreapp3.1\Contact Tracing Viewer.deps.json
+C:\Users\user\source\repos\Contact Tracing Viewer\Contact Tracing Viewer\bin\Debug\netcoreapp3.1\Contact Tracing Viewer.runtimeconfig.json
+C:\Users\user\source\repos\Contact Tracing Viewer\Contact Tracing Viewer\bin\Debug\netcoreapp3.1\Contact Tracing Viewer.runtimeconfig.dev.json
+C:\Users\user\source\repos\Contact Tracing Viewer\Contact Tracing Viewer\bin\Debug\netcoreapp3.1\Contact Tracing Viewer.dll
+C:\Users\user\source\repos\Contact Tracing Viewer\Contact Tracing Viewer\bin\Debug\netcoreapp3.1\Contact Tracing Viewer.pdb
+C:\Users\user\source\repos\Contact Tracing Viewer\Contact Tracing Viewer\obj\Debug\netcoreapp3.1\Contact Tracing Viewer.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Contact Tracing Viewer\Contact Tracing Viewer\obj\Debug\netcoreapp3.1\Contact_Tracing_Viewer.Form1.resources
+C:\Users\user\source\repos\Contact Tracing Viewer\Contact Tracing Viewer\obj\Debug\netcoreapp3.1\Contact Tracing Viewer.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Contact Tracing Viewer\Contact Tracing Viewer\obj\Debug\netcoreapp3.1\Contact Tracing Viewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Contact Tracing Viewer\Contact Tracing Viewer\obj\Debug\netcoreapp3.1\Contact Tracing Viewer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Contact Tracing Viewer\Contact Tracing Viewer\obj\Debug\netcoreapp3.1\Contact Tracing Viewer.AssemblyInfo.cs
+C:\Users\user\source\repos\Contact Tracing Viewer\Contact Tracing Viewer\obj\Debug\netcoreapp3.1\Contact Tracing Viewer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Contact Tracing Viewer\Contact Tracing Viewer\obj\Debug\netcoreapp3.1\Contact Tracing Viewer.dll
+C:\Users\user\source\repos\Contact Tracing Viewer\Contact Tracing Viewer\obj\Debug\netcoreapp3.1\Contact Tracing Viewer.pdb
+C:\Users\user\source\repos\Contact Tracing Viewer\Contact Tracing Viewer\obj\Debug\netcoreapp3.1\Contact Tracing Viewer.genruntimeconfig.cache
