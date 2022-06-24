@@ -1,0 +1,42 @@
+﻿Name: Oddloop
+Contact#: 09123456789
+Address: Philippines
+Date: June 4, 2022
+Time In: 4:45 pm
+Time Out: 5:00 pm
+Age: 19
+Name: Qweepee
+Contact#: 94366420
+Address: North Korea
+Date: None
+Time In: 8:00 am
+Time Out: 3:00 pm
+Age: 7
+Name: Leonardo B. Suryu
+Contact#: Ikaw na bahala diyan
+Address: Langit
+Date: June 4, 2022
+Time In: 8:00 am
+Time Out: 10:00 am
+Age: 69
+Name: Reodin
+Contact#: 177013
+Address: Valorant
+Date: June 4, 2022
+Time In: 10:00 am
+Time Out: 12:00 am
+Age: 19
+Name: Pangalan
+Contact#: 090909
+Address: Japan
+Date: June
+Time In: 9:30 pm
+Time Out: 10:00 pm
+Age: 7
+Name: 
+Contact#: 
+Address: 
+Date: 
+Time In: 
+Time Out: 
+Age: 
